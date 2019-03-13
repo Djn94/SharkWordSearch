@@ -1,0 +1,30 @@
+#navBar{
+    justify-content: center;}
+h1{
+font-family: 'Times New Roman', Times, serif;
+font-size: 3rem;
+justify-content: center;
+background-color: black;
+color:purple;   
+}
+body{
+    background-image: url(./images/shark.png);
+    text-align: center;
+}
+#hangmanGame{
+margin-top: 5rem;
+}
+#winloss{
+    margin-left:12%;
+}
+#directionsText{
+    
+    text-align: center;
+}
+.navbar navbar-expand-lg navbar-light text-muted bg-dark{
+    justify-content: center;
+}
+.jumbotron{
+    border: solid black 5px;
+    box-shadow: 5px;
+}
